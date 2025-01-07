@@ -2,7 +2,6 @@
 
 Pizza Sales Dashboard using SQL and Excel.
 
-![dashboard-animation](https://github.com/nabasmita-mahanta/Pizza-sales-dashboard/blob/main/DemoPizzaSales.gif)
 ## Project Highlights:
 Pizza Sales Analysis 
 
